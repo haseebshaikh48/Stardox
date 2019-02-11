@@ -1,6 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/0xprateek"><img src="https://i.imgur.com/RxVd4Or.png" alt="Stardox"></a>
+ HASEEB SHAIKH
 </h1>
 
 <p align="center">  
